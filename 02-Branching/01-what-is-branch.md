@@ -1,4 +1,3 @@
-````md
 # 🌿 What Is a Branch?
 
 ---

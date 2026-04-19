@@ -1,4 +1,4 @@
-````md
+
 # 🗑 Delete a Branch
 
 ---

@@ -1,4 +1,4 @@
-```md
+
 # 🧪 Practice Lab — Branching Mastery
 
 ---
