@@ -1,5 +1,4 @@
 
-````markdown
 # 💬 Resolving Pull Request Comments
 
 <p align="center">

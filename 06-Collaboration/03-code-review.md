@@ -1,5 +1,4 @@
 
-```markdown
 # 🧑‍💻 Code Review Mastery
 
 <p align="center">

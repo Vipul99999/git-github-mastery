@@ -1,5 +1,4 @@
 
-````markdown
 # 🌿 Team Branch Strategy (Professional Workflows)
 
 <p align="center">
