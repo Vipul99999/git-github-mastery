@@ -1,4 +1,3 @@
-
 ````markdown
 # 🤝 Git Collaboration Mastery
 
@@ -81,6 +80,7 @@ flowchart LR
     F --> G[Code Review]
     G --> H[Improve / Fix]
     H --> I[Merge]
+```
 ````
 
 ---
@@ -104,14 +104,14 @@ Used mostly by very small teams.
 
 ### ✅ Pros
 
-* simple to understand
-* fast for tiny teams
+- simple to understand
+- fast for tiny teams
 
 ### ❌ Cons
 
-* dangerous if people commit directly to `main`
-* unstable history
-* high conflict risk
+- dangerous if people commit directly to `main`
+- unstable history
+- high conflict risk
 
 ---
 
@@ -133,10 +133,10 @@ Each piece of work happens in an isolated branch.
 
 ### ✅ Why it works
 
-* protects `main`
-* enables code review
-* makes rollback easier
-* keeps changes focused
+- protects `main`
+- enables code review
+- makes rollback easier
+- keeps changes focused
 
 ---
 
@@ -155,9 +155,9 @@ flowchart LR
 
 ### ✅ Why it matters
 
-* you do not need direct write access
-* maintainers stay in control
-* contributors can work safely
+- you do not need direct write access
+- maintainers stay in control
+- contributors can work safely
 
 ---
 
@@ -203,8 +203,8 @@ This is why branches are fast and cheap.
 
 GitHub compares:
 
-* **base branch** → where changes should go
-* **compare branch** → where your changes live
+- **base branch** → where changes should go
+- **compare branch** → where your changes live
 
 ```text
 Base:    main
@@ -213,10 +213,10 @@ Compare: feature/login
 
 GitHub computes the diff between them and shows:
 
-* changed files
-* added/removed lines
-* comments
-* checks/status
+- changed files
+- added/removed lines
+- comments
+- checks/status
 
 ---
 
@@ -224,10 +224,10 @@ GitHub computes the diff between them and shows:
 
 Git may do one of these:
 
-* **fast-forward merge**
-* **merge commit**
-* **squash merge**
-* **rebase merge**
+- **fast-forward merge**
+- **merge commit**
+- **squash merge**
+- **rebase merge**
 
 #### 3-way merge concept
 
@@ -327,13 +327,13 @@ Code review is about improving code, not attacking people.
 
 ## 💡 Pro Collaboration Rules
 
-* create a new branch for each task
-* keep PRs small and focused
-* write clear commit messages
-* update your branch regularly
-* explain your PR properly
-* review before merging
-* never rush a merge into production branches
+- create a new branch for each task
+- keep PRs small and focused
+- write clear commit messages
+- update your branch regularly
+- explain your PR properly
+- review before merging
+- never rush a merge into production branches
 
 ---
 
@@ -373,11 +373,11 @@ Git collaboration is not just about commands.
 
 It is about:
 
-* isolation of work
-* safe integration
-* communication
-* review discipline
-* understanding how Git and GitHub behave under the hood
+- isolation of work
+- safe integration
+- communication
+- review discipline
+- understanding how Git and GitHub behave under the hood
 
 Once you master this module, you move from **“I know Git commands”** to **“I can work effectively with real teams.”**
 
@@ -386,4 +386,3 @@ Once you master this module, you move from **“I know Git commands”** to **�
 ## 👉 Start Here
 
 ➡️ [`01-fork-workflow.md`](./01-fork-workflow.md)
-

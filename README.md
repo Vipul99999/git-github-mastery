@@ -1,130 +1,187 @@
-# 🚀 Git + GitHub Mastery
 
-**The complete free roadmap to master Git and GitHub — from zero → confident → advanced → real-world workflows.**
+# 🚀 Git & GitHub Mastery (Top 1% Guide)
 
----
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/git-github-mastery?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/git-github-mastery?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/git-github-mastery?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/git-github-mastery?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
+![Made With Love](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=for-the-badge)
 
-## 🎯 What You’ll Achieve
+![Banner](./assets/images/repo-banner.png)
 
-By finishing this repository, you will be able to:
-
-* Use Git confidently in daily development
-* Understand how Git actually works (not just commands)
-* Collaborate with teams using GitHub
-* Resolve merge conflicts without panic
-* Recover from mistakes safely
-* Use advanced workflows like rebasing, branching, and releases
-* Answer Git questions in interviews with clarity
+> 🧠 From Beginner → Top 1% Git Engineer  
+> 🔬 Deep internals + real-world debugging  
+> 🎯 Interview-ready + hands-on labs  
 
 ---
 
-## 🧭 Start Here
+## 🔍 Learn Git & GitHub (Complete Guide)
 
-👉 Go to: `START-HERE.md`
+A complete **Git and GitHub tutorial** covering:
 
----
+- Git basics for beginners  
+- Branching, merging, and rebasing  
+- Git internals explained  
+- GitHub workflows (PRs, issues, collaboration)  
+- Debugging and recovery (reflog, reset, revert)  
+- Interview preparation (FAANG-level questions)  
 
-## 📍 Learning Paths
-
-Choose your path:
-
-* 🟢 Beginner (0 → comfortable)
-* 🟡 Fast-track (already using Git but confused)
-* 🔴 Advanced (deep Git + internals)
-* 💼 Interview prep
-* 🧯 Debugging & recovery path
-
-👉 See: `LEARNING-PATHS.md`
+👉 This is a **complete Git learning roadmap** from beginner to advanced.
 
 ---
 
-## 🗺️ Roadmap
+## 🧠 Topics Covered (SEO Keywords)
 
-👉 See full roadmap: `ROADMAP.md`
-
----
-
-## 🧠 Core Sections
-
-* 📘 Basics → `01-Basics/`
-* 🌿 Branching → `02-Branching/`
-* 🔀 Merging → `03-Merging/`
-* 🔁 Rebasing → `04-Rebasing/`
-* 🌍 GitHub → `05-Remote-GitHub/`
-* 🤝 Collaboration → `06-Collaboration/`
-* ⚡ Advanced Git → `07-Advanced-Git/`
-* 🧯 Mistakes & Recovery → `11-Mistakes-Recovery/`
-* 🧪 Practice Labs → Inside each section
-* 🧩 Real-world scenarios → `09-Real-World-Scenarios/`
-* 💼 Interview prep → `12-Interview-Questions/`
+Git, GitHub, version control, git tutorial, git for beginners, git advanced, git internals, git rebase, git merge, git workflow, github workflow, pull requests, merge conflicts, git debugging, reflog, reset vs revert, git interview questions, git roadmap
 
 ---
 
-## 🧪 Practice + Projects
+## 📌 Quick Navigation
 
-* Hands-on labs in every section
-* Real-world workflow simulations
-* Team collaboration projects
-* Open-source contribution flow
-
----
-
-## 🧯 Debugging & Recovery (Most Loved Section)
-
-Fix real problems like:
-
-* “I lost my commit”
-* “I committed to wrong branch”
-* “Merge conflicts everywhere”
-* “Rebase broke everything”
-
-👉 `11-Mistakes-Recovery/`
-
----
-
-## 📌 Cheatsheets
-
-Quick references:
-
-* Beginner cheatsheet
-* Daily commands
-* Emergency recovery
-
-👉 `cheatsheets/`
+- 🚀 [Start Here](./START-HERE.md)
+- 🧠 [Mental Models](./00-Mental-Models/)
+- 📚 [Full Course](./01-Basics/)
+- 🌿 [Branching](./02-Branching/)
+- 🔀 [Merging](./03-Merging/)
+- 🔄 [Rebasing](./04-Rebasing/)
+- 🌍 [GitHub](./05-Remote-GitHub/)
+- 👥 [Collaboration](./06-Collaboration/)
+- 🔴 [Advanced Git](./07-Advanced-Git/)
+- 🔬 [Internals](./10-Git-Internals/)
+- 🚑 [Recovery](./11-Mistakes-Recovery/)
+- 🎯 [Interview Prep](./12-Interview-Questions/)
+- ⚔️ [Challenges](./13-Challenges/)
+- 🧪 [Projects](./projects/)
+- 🎁 [Bonus](./bonus/)
+- 📄 [Cheat Sheets](./cheatsheets/)
 
 ---
 
-## 💼 Interview Prep
+## 🧠 Learning System
 
-* Beginner → Advanced questions
-* Scenario-based questions
-* Real explanations
-
-👉 `12-Interview-Questions/`
-
----
-
-## ⭐ Why This Repo is Different
-
-Most Git guides teach commands.
-
-This repo teaches:
-
-* 🧠 Mental models
-* 🧪 Hands-on labs
-* 🧯 Recovery skills
-* 🧩 Real workflows
+```mermaid
+flowchart LR
+    A[Concepts] --> B[Visual Learning]
+    B --> C[Hands-on Practice]
+    C --> D[Debugging]
+    D --> E[Mastery 🚀]
+````
 
 ---
 
-## 🤝 Contribute
+## 🔥 What Makes This Repo Special?
 
-Want to improve this repo?
-
-👉 See `CONTRIBUTING.md`
+✔ Visual diagrams for deep understanding
+✔ Real-world debugging scenarios
+✔ Hands-on labs & challenges
+✔ Interview-focused preparation
+✔ Git internals explained simply
 
 ---
 
-## ⭐ Support
+## 🧭 Git Mental Model
 
-If this helps you, consider starring the repo!
+```mermaid
+graph LR
+    A[Working Directory] --> B[Staging Area]
+    B --> C[Commit]
+    C --> D[Branch]
+    D --> E[Remote]
+```
+
+---
+
+## 📚 Course Structure
+
+```mermaid
+flowchart LR
+    A[Basics] --> B[Branching]
+    B --> C[Merging]
+    C --> D[Rebasing]
+    D --> E[Advanced]
+    E --> F[Internals]
+    F --> G[Debugging]
+    G --> H[Mastery 🚀]
+```
+
+---
+
+## 🧭 Learning Roadmap
+
+![Roadmap](./assets/images/roadmap.png)
+
+👉 Full roadmap → [ROADMAP.md](./ROADMAP.md)
+
+---
+
+## ⚡ Quick Start
+
+```bash
+git clone https://github.com/YOUR_USERNAME/git-github-mastery.git
+cd git-github-mastery
+```
+
+👉 Start from → `START-HERE.md`
+
+---
+
+## 🎯 Who This Is For
+
+* 🟢 Beginners → structured learning path
+* 🧠 Developers → real-world workflows
+* 🎯 Interview prep → FAANG-level questions
+* 🔴 Advanced users → Git internals
+
+---
+
+## 🧪 What You’ll Be Able to Do
+
+✔ Fix broken repositories
+✔ Recover lost commits
+✔ Resolve complex merge conflicts
+✔ Work safely in teams
+✔ Explain Git in interviews confidently
+
+---
+
+## 📊 Skill Progression
+
+```mermaid
+flowchart LR
+    A[Commands] --> B[Concepts]
+    B --> C[Workflows]
+    C --> D[Debugging]
+    D --> E[Mastery 🚀]
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions!
+
+👉 Read: [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support This Project
+
+If this repo helps you:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share with others
+
+---
+
+## 🏁 Final Thought
+
+> “Git is not hard — it’s misunderstood.
+> Once you understand it, you control it.”
