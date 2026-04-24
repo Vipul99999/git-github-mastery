@@ -31,6 +31,12 @@ A complete **Git and GitHub tutorial** covering:
 
 ---
 
+## Git Workflow
+
+![Git Workflow](./Git%20Workflow.png)
+
+---
+
 ## 🧠 Topics Covered (SEO Keywords)
 
 Git, GitHub, version control, git tutorial, git for beginners, git advanced, git internals, git rebase, git merge, git workflow, github workflow, pull requests, merge conflicts, git debugging, reflog, reset vs revert, git interview questions, git roadmap
